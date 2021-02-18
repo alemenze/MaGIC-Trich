@@ -1,26 +1,33 @@
 ---
-title: "Manuscript Title"
+title: "The Trich of the matter: Temporary title for Trichinella spiralis project"
 keywords:
   - markdown
   - publishing
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - name: Mainul Hogue
+    initials: MH
+    email: mainul.hogue@rutgers.edu
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+      - Genomics Core, Rutgers University- New Jersey Medical School
+  - name: Patricia Soteropoulos
+    initials: PS
+    email: patricia.soteropoulos@rutgers.edu
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Genomics Core, Rutgers University- New Jersey Medical School
+  - name: Mark Siracusa
+    initials: MS
+    email: mark.siracusa@rutgers.edu
+    affiliations:
+      - Department of Medicine, Rutgers University- New Jersey Medical School
+      - Center for Immunity and Inflammation, Rutgers University- New Jersey Medical School   
+  - github: alemenze
+    name: Alexander Lemenze
+    initials: ADL
+    orcid: 0000-0003-3053-0849
+    email: alex.lemenze@rutgers.edu
+    affiliations:
+      - Molecular and Genomics Informatics Core, Rutgers University- New Jersey Medical School
+      - Department of Pathology, Immunology, and Laboratory Medicine, Rutgers University- New Jersey Medical School
+      - Center for Immunity and Inflammation, Rutgers University- New Jersey Medical School   
