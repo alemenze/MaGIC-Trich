@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/alemenze/MaGIC-Trich/tree/gh-pages) branch hosts the contents of this directory at <https://alemenze.github.io/MaGIC-Trich/>.
-The permalink for this webpage version is <https://alemenze.github.io/MaGIC-Trich/v/52ab9dc8bba4d0c6cee348fa9d7b0b764a89ffcf/>.
+The permalink for this webpage version is <https://alemenze.github.io/MaGIC-Trich/v/22d975dbb39559df5ab5957870c0da199e049c3c/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://alemenze.github.io/MaGIC-Trich/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`52ab9dc8bba4d0c6cee348fa9d7b0b764a89ffcf`](https://github.com/alemenze/MaGIC-Trich/commit/52ab9dc8bba4d0c6cee348fa9d7b0b764a89ffcf).
+[`22d975dbb39559df5ab5957870c0da199e049c3c`](https://github.com/alemenze/MaGIC-Trich/commit/22d975dbb39559df5ab5957870c0da199e049c3c).
