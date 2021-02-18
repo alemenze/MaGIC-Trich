@@ -1,463 +1,257 @@
 [
   {
     "type": "article-journal",
-    "id": "PZMP42Ak",
+    "id": "AOPYlZxu",
     "author": [
       {
-        "family": "Ching",
-        "given": "Travers"
+        "family": "Korhonen",
+        "given": "Pasi K."
       },
       {
-        "family": "Himmelstein",
-        "given": "Daniel S."
+        "family": "Pozio",
+        "given": "Edoardo"
       },
       {
-        "family": "Beaulieu-Jones",
-        "given": "Brett K."
+        "family": "La Rosa",
+        "given": "Giuseppe"
       },
       {
-        "family": "Kalinin",
-        "given": "Alexandr A."
+        "family": "Chang",
+        "given": "Bill C. H."
       },
       {
-        "family": "Do",
-        "given": "Brian T."
+        "family": "Koehler",
+        "given": "Anson V."
       },
       {
-        "family": "Way",
-        "given": "Gregory P."
+        "family": "Hoberg",
+        "given": "Eric P."
       },
       {
-        "family": "Ferrero",
-        "given": "Enrico"
+        "family": "Boag",
+        "given": "Peter R."
       },
       {
-        "family": "Agapow",
-        "given": "Paul-Michael"
+        "family": "Tan",
+        "given": "Patrick"
       },
       {
-        "family": "Zietz",
-        "given": "Michael"
+        "family": "Jex",
+        "given": "Aaron R."
       },
       {
-        "family": "Hoffman",
-        "given": "Michael M."
+        "family": "Hofmann",
+        "given": "Andreas"
       },
       {
-        "family": "Xie",
-        "given": "Wei"
+        "family": "Sternberg",
+        "given": "Paul W."
       },
       {
-        "family": "Rosen",
-        "given": "Gail L."
+        "family": "Young",
+        "given": "Neil D."
       },
       {
-        "family": "Lengerich",
-        "given": "Benjamin J."
-      },
-      {
-        "family": "Israeli",
-        "given": "Johnny"
-      },
-      {
-        "family": "Lanchantin",
-        "given": "Jack"
-      },
-      {
-        "family": "Woloszynek",
-        "given": "Stephen"
-      },
-      {
-        "family": "Carpenter",
-        "given": "Anne E."
-      },
-      {
-        "family": "Shrikumar",
-        "given": "Avanti"
-      },
-      {
-        "family": "Xu",
-        "given": "Jinbo"
-      },
-      {
-        "family": "Cofer",
-        "given": "Evan M."
-      },
-      {
-        "family": "Lavender",
-        "given": "Christopher A."
-      },
-      {
-        "family": "Turaga",
-        "given": "Srinivas C."
-      },
-      {
-        "family": "Alexandari",
-        "given": "Amr M."
-      },
-      {
-        "family": "Lu",
-        "given": "Zhiyong"
-      },
-      {
-        "family": "Harris",
-        "given": "David J."
-      },
-      {
-        "family": "DeCaprio",
-        "given": "Dave"
-      },
-      {
-        "family": "Qi",
-        "given": "Yanjun"
-      },
-      {
-        "family": "Kundaje",
-        "given": "Anshul"
-      },
-      {
-        "family": "Peng",
-        "given": "Yifan"
-      },
-      {
-        "family": "Wiley",
-        "given": "Laura K."
-      },
-      {
-        "family": "Segler",
-        "given": "Marwin H. S."
-      },
-      {
-        "family": "Boca",
-        "given": "Simina M."
-      },
-      {
-        "family": "Swamidass",
-        "given": "S. Joshua"
-      },
-      {
-        "family": "Huang",
-        "given": "Austin"
-      },
-      {
-        "family": "Gitter",
-        "given": "Anthony"
-      },
-      {
-        "family": "Greene",
-        "given": "Casey S."
+        "family": "Gasser",
+        "given": "Robin B."
       }
     ],
     "issued": {
       "date-parts": [
         [
-          2018,
-          4,
-          4
-        ]
-      ]
-    },
-    "abstract": "Deep learning describes a class of machine learning algorithms that are capable of combining raw inputs into layers of intermediate features. These algorithms have recently shown impressive results across a variety of domains. Biology and medicine are data-rich disciplines, but the data are complex and often ill-understood. Hence, deep learning techniques may be particularly well suited to solve problems of these fields. We examine applications of deep learning to a variety of biomedical problems—patient classification, fundamental biological processes and treatment of patients—and discuss whether deep learning will be able to transform these tasks or if the biomedical sphere poses unique challenges. Following from an extensive literature review, we find that deep learning has yet to revolutionize biomedicine or definitively resolve any of the most pressing challenges in the field, but promising advances have been made on the prior state of the art. Even though improvements over previous baselines have been modest in general, the recent progress indicates that deep learning methods will provide valuable means for speeding up or aiding human investigation. Though progress has been made linking a specific neural network's prediction to input features, understanding how users should interpret these models to make testable hypotheses about the system under study remains an open challenge. Furthermore, the limited amount of labelled data for training presents problems in some domains, as do legal and privacy constraints on work with sensitive health records. Nonetheless, we foresee deep learning enabling changes at both bench and bedside with the potential to transform several areas of biology and medicine.",
-    "container-title": "Journal of The Royal Society Interface",
-    "DOI": "10.1098/rsif.2017.0387",
-    "volume": "15",
-    "issue": "141",
-    "page": "20170387",
-    "publisher": "The Royal Society",
-    "title": "Opportunities and obstacles for deep learning in biology and medicine",
-    "URL": "https://doi.org/gddkhn",
-    "PMCID": "PMC5938574",
-    "PMID": "29618526",
-    "note": "This CSL Item was generated by Manubot v0.5.0 from its persistent identifier (standard_id).\nstandard_id: doi:10.1098/rsif.2017.0387"
-  },
-  {
-    "type": "article-journal",
-    "id": "YuJbg3zO",
-    "author": [
-      {
-        "family": "Himmelstein",
-        "given": "Daniel S."
-      },
-      {
-        "family": "Rubinetti",
-        "given": "Vincent"
-      },
-      {
-        "family": "Slochower",
-        "given": "David R."
-      },
-      {
-        "family": "Hu",
-        "given": "Dongbo"
-      },
-      {
-        "family": "Malladi",
-        "given": "Venkat S."
-      },
-      {
-        "family": "Greene",
-        "given": "Casey S."
-      },
-      {
-        "family": "Gitter",
-        "given": "Anthony"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2019,
-          6,
-          24
-        ]
-      ]
-    },
-    "container-title": "PLOS Computational Biology",
-    "DOI": "10.1371/journal.pcbi.1007128",
-    "volume": "15",
-    "issue": "6",
-    "page": "e1007128",
-    "publisher": "Public Library of Science (PLoS)",
-    "title": "Open collaborative writing with Manubot",
-    "URL": "https://doi.org/c7np",
-    "PMCID": "PMC6611653",
-    "PMID": "31233491",
-    "note": "This CSL Item was generated by Manubot v0.5.0 from its persistent identifier (standard_id).\nstandard_id: doi:10.1371/journal.pcbi.1007128"
-  },
-  {
-    "type": "article-journal",
-    "id": "IhliSZDo",
-    "author": [
-      {
-        "family": "Himmelstein",
-        "given": "Daniel S"
-      },
-      {
-        "family": "Romero",
-        "given": "Ariel Rodriguez"
-      },
-      {
-        "family": "Levernier",
-        "given": "Jacob G"
-      },
-      {
-        "family": "Munro",
-        "given": "Thomas Anthony"
-      },
-      {
-        "family": "McLaughlin",
-        "given": "Stephen Reid"
-      },
-      {
-        "family": "Greshake Tzovaras",
-        "given": "Bastian"
-      },
-      {
-        "family": "Greene",
-        "given": "Casey S"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2018,
-          3,
+          2016,
+          2,
           1
         ]
       ]
     },
-    "abstract": "The website Sci-Hub enables users to download PDF versions of scholarly articles, including many articles that are paywalled at their journal’s site. Sci-Hub has grown rapidly since its creation in 2011, but the extent of its coverage has been unclear. Here we report that, as of March 2017, Sci-Hub’s database contains 68.9% of the 81.6 million scholarly articles registered with Crossref and 85.1% of articles published in toll access journals. We find that coverage varies by discipline and publisher, and that Sci-Hub preferentially covers popular, paywalled content. For toll access articles, we find that Sci-Hub provides greater coverage than the University of Pennsylvania, a major research university in the United States. Green open access to toll access articles via licit services, on the other hand, remains quite limited. Our interactive browser at https://greenelab.github.io/scihub allows users to explore these findings in more detail. For the first time, nearly all scholarly literature is available gratis to anyone with an Internet connection, suggesting the toll access business model may become unsustainable.",
-    "container-title": "eLife",
-    "DOI": "10.7554/elife.32822",
+    "container-title": "Nature Communications",
+    "DOI": "10.1038/ncomms10513",
     "volume": "7",
-    "page": "e32822",
-    "publisher": "eLife Sciences Publications, Ltd",
-    "title": "Sci-Hub provides access to nearly all scholarly literature",
-    "URL": "https://doi.org/ckcj",
-    "PMCID": "PMC5832410",
-    "PMID": "29424689",
-    "note": "This CSL Item was generated by Manubot v0.5.0 from its persistent identifier (standard_id).\nstandard_id: doi:10.7554/elife.32822"
+    "issue": "1",
+    "page": "10513",
+    "publisher": "Springer Science and Business Media LLC",
+    "title": "Phylogenomic and biogeographic reconstruction of the Trichinella complex",
+    "URL": "https://doi.org/f8b7q6",
+    "PMCID": "PMC4740406",
+    "PMID": "26830005",
+    "note": "This CSL Item was generated by Manubot v0.5.0 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/ncomms10513"
   },
   {
-    "id": "zBPP9YKu",
-    "type": "book",
-    "title": "Open access",
-    "collection-title": "MIT Press essential knowledge series",
-    "publisher": "MIT Press",
-    "publisher-place": "Cambridge, Mass",
-    "number-of-pages": "242",
-    "source": "Library of Congress ISBN",
-    "event-place": "Cambridge, Mass",
-    "ISBN": "9780262517638",
-    "call-number": "Z286.O63 S83 2012",
-    "note": "OCLC: ocn754518563\nThis CSL Item was generated by Manubot v0.5.0 from its persistent identifier (standard_id).\nstandard_id: isbn:9780262517638",
+    "type": "article-journal",
+    "id": "n5WMRfMm",
     "author": [
       {
-        "family": "Suber",
-        "given": "Peter"
+        "family": "Mitreva",
+        "given": "Makedonka"
+      },
+      {
+        "family": "Jasmer",
+        "given": "Douglas P"
+      },
+      {
+        "family": "Zarlenga",
+        "given": "Dante S"
+      },
+      {
+        "family": "Wang",
+        "given": "Zhengyuan"
+      },
+      {
+        "family": "Abubucker",
+        "given": "Sahar"
+      },
+      {
+        "family": "Martin",
+        "given": "John"
+      },
+      {
+        "family": "Taylor",
+        "given": "Christina M"
+      },
+      {
+        "family": "Yin",
+        "given": "Yong"
+      },
+      {
+        "family": "Fulton",
+        "given": "Lucinda"
+      },
+      {
+        "family": "Minx",
+        "given": "Pat"
+      },
+      {
+        "family": "Yang",
+        "given": "Shiaw-Pyng"
+      },
+      {
+        "family": "Warren",
+        "given": "Wesley C"
+      },
+      {
+        "family": "Fulton",
+        "given": "Robert S"
+      },
+      {
+        "family": "Bhonagiri",
+        "given": "Veena"
+      },
+      {
+        "family": "Zhang",
+        "given": "Xu"
+      },
+      {
+        "family": "Hallsworth-Pepin",
+        "given": "Kym"
+      },
+      {
+        "family": "Clifton",
+        "given": "Sandra W"
+      },
+      {
+        "family": "McCarter",
+        "given": "James P"
+      },
+      {
+        "family": "Appleton",
+        "given": "Judith"
+      },
+      {
+        "family": "Mardis",
+        "given": "Elaine R"
+      },
+      {
+        "family": "Wilson",
+        "given": "Richard K"
       }
     ],
     "issued": {
       "date-parts": [
         [
-          "2012"
+          2011,
+          2,
+          20
         ]
       ]
-    }
+    },
+    "container-title": "Nature Genetics",
+    "DOI": "10.1038/ng.769",
+    "volume": "43",
+    "issue": "3",
+    "page": "228-235",
+    "publisher": "Springer Science and Business Media LLC",
+    "title": "The draft genome of the parasitic nematode Trichinella spiralis",
+    "URL": "https://doi.org/drghhn",
+    "PMCID": "PMC3057868",
+    "PMID": "21336279",
+    "note": "This CSL Item was generated by Manubot v0.5.0 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/ng.769"
   },
   {
-    "source": "PubMed",
-    "accessed": {
+    "type": "article-journal",
+    "id": "eUKsaZ4H",
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Xiaolei"
+      },
+      {
+        "family": "Feng",
+        "given": "Yayan"
+      },
+      {
+        "family": "Bai",
+        "given": "Xue"
+      },
+      {
+        "family": "Wang",
+        "given": "Xuelin"
+      },
+      {
+        "family": "Qin",
+        "given": "Rui"
+      },
+      {
+        "family": "Tang",
+        "given": "Bin"
+      },
+      {
+        "family": "Yu",
+        "given": "Xinxin"
+      },
+      {
+        "family": "Yang",
+        "given": "Yong"
+      },
+      {
+        "family": "Liu",
+        "given": "Mingyuan"
+      },
+      {
+        "family": "Gao",
+        "given": "Fei"
+      }
+    ],
+    "issued": {
       "date-parts": [
         [
           2021,
-          2,
-          18
+          1,
+          29
         ]
       ]
     },
-    "id": "mSMVRkoc",
-    "title": "Reproducibility of computational workflows is automated using continuous analysis",
-    "author": [
-      {
-        "family": "Beaulieu-Jones",
-        "given": "Brett K"
-      },
-      {
-        "family": "Greene",
-        "given": "Casey S"
-      }
-    ],
-    "container-title-short": "Nat Biotechnol",
-    "container-title": "Nature biotechnology",
-    "ISSN": "1087-0156",
-    "issued": {
-      "date-parts": [
-        [
-          2017,
-          4
-        ]
-      ]
-    },
-    "page": "342-346",
-    "volume": "35",
-    "issue": "4",
-    "PMID": "28288103",
-    "PMCID": "PMC6103790",
-    "DOI": "10.1038/nbt.3780",
-    "type": "article-journal",
-    "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6103790/",
-    "note": "This CSL Item was generated by Manubot v0.5.0 from its persistent identifier (standard_id).\nstandard_id: pmc:PMC6103790"
-  },
-  {
-    "title": "Bitcoin for the biological literature.",
-    "volume": "566",
-    "issue": "7742",
-    "page": "141-142",
-    "container-title": "Nature",
-    "container-title-short": "Nature",
-    "ISSN": "1476-4687",
-    "issued": {
-      "date-parts": [
-        [
-          2019,
-          2
-        ]
-      ]
-    },
-    "author": [
-      {
-        "given": "Douglas",
-        "family": "Heaven"
-      }
-    ],
-    "PMID": "30718888",
-    "DOI": "10.1038/d41586-019-00447-9",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/30718888",
-    "type": "article-journal",
-    "id": "126Wi5Us4",
-    "note": "This CSL Item was generated by Manubot v0.5.0 from its persistent identifier (standard_id).\nstandard_id: pubmed:30718888"
-  },
-  {
-    "id": "6acIRW4q",
-    "type": "report",
-    "title": "Open collaborative writing with Manubot",
-    "publisher": "Manubot",
-    "source": "greenelab.github.io",
-    "URL": "https://greenelab.github.io/meta-review/",
-    "language": "en-US",
-    "author": [
-      {
-        "family": "Himmelstein",
-        "given": "Daniel S."
-      },
-      {
-        "family": "Rubinetti",
-        "given": "Vincent"
-      },
-      {
-        "family": "Slochower",
-        "given": "David R."
-      },
-      {
-        "family": "Hu",
-        "given": "Dongbo"
-      },
-      {
-        "family": "Malladi",
-        "given": "Venkat S."
-      },
-      {
-        "family": "Greene",
-        "given": "Casey S."
-      },
-      {
-        "family": "Gitter",
-        "given": "Anthony"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          "2020",
-          5,
-          25
-        ]
-      ]
-    },
-    "accessed": {
-      "date-parts": [
-        [
-          "2021",
-          2,
-          18
-        ]
-      ]
-    },
-    "note": "This CSL Item was generated by Manubot v0.5.0 from its persistent identifier (standard_id).\nstandard_id: url:https://greenelab.github.io/meta-review"
-  },
-  {
-    "id": "QhC8yJ7V",
-    "type": "article",
-    "title": "Plan S: Accelerating the transition to full and immediate Open Access to scientific publications",
-    "source": "Wikidata",
-    "shortTitle": "Plan S",
-    "author": [
-      {
-        "family": "S",
-        "given": "cOAlition"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          "2018",
-          9,
-          4
-        ]
-      ]
-    },
-    "URL": "https://www.wikidata.org/wiki/Q56458321",
-    "note": "This CSL Item was generated by Manubot v0.5.0 from its persistent identifier (standard_id).\nstandard_id: wikidata:Q56458321"
+    "abstract": "Genome assemblies provide a powerful basis of comparative multi-omics analyses that offer insight into parasite pathogenicity, host-parasite interactions, and invasion biology. As a unique intracellular nematode, consists of two clades, encapsulated and non-encapsulated. Genomic correlation of the distinct differences between the two clades is still unclear. Here, we report an annotated draft reference genome of non-encapsulated , , and perform comparative multi-omics analyses with encapsulated . Genome and methylome analyses indicate that, during evolution, the two clades of exhibit differential expansion and methylation of parasitism-related multi-copy gene families, especially for the DNase II members of the phospholipase D superfamily and Glutathione S-transferases. Further, methylome and transcriptome analyses revealed divergent key excretory/secretory (E/S) genes between the two clades. Among these key E/S genes, TP12446 is significantly more expressed across three life stages in . Overexpression of TP12446 in the mouse C2C12 skeletal muscle cell line could induce inhibition of myotube formation and differentiation, further indicating its key role in parasitism of . This multi-omics study provides a foundation for further elucidation of the mechanism of nurse cell formation and immunoevasion, as well as the identification of pharmacological and diagnostic targets of trichinellosis.",
+    "container-title": "Communications Biology",
+    "DOI": "10.1038/s42003-021-01650-z",
+    "volume": "4",
+    "issue": "1",
+    "page": "134",
+    "publisher": "Springer Science and Business Media LLC",
+    "title": "Comparative multi-omics analyses reveal differential expression of key genes relevant for parasitism between non-encapsulated and encapsulated Trichinella",
+    "URL": "https://doi.org/gh3wc5",
+    "PMCID": "PMC7846577",
+    "PMID": "33514854",
+    "note": "This CSL Item was generated by Manubot v0.5.0 from its persistent identifier (standard_id).\nstandard_id: doi:10.1038/s42003-021-01650-z"
   }
 ]
